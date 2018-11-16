@@ -1,0 +1,194 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PandigitalProducts",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "PandigitalProducts",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FifthDigitPowers",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "FifthDigitPowers",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuadraticPrimes",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "QuadraticPrimes",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReciprocalCycles",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "ReciprocalCycles",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneThounsandFibonacciNumber",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OneThounsandFibonacciNumber",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LexicographicPermutations",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "LexicographicPermutations",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AbundantNumbers",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "AbundantNumbers",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NonAbundantNumbers",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NonAbundantNumbers",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NonAbundantSums",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NonAbundantSums",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NonAbuntantSums",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NonAbuntantSums",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NameScores",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NameScores",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NamesScores",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NamesScores",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AmicableNumbers",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "AmicableNumbers",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactorialDigitSum",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "FactorialDigitSum",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountingSundays",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CountingSundays",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximumPathSumI",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MaximumPathSumI",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaximumPathSum",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "MaximumPathSum",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberLetterCount",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "NumberLetterCount",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CoinChange",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "CoinChange",
+            "args": ""
+        }
+    ]
+}
