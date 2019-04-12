@@ -13,18 +13,16 @@ public class SmallestMultiple{
 
         var element = new int[]{11, 12, 13, 14, 15, 16, 17, 18, 19, 20};
         for(var currValue = 2520L; ; currValue += 2520){
-            for(var index = 0; index < element.length; index++){
-               if(isSmallestMultiple(currValue, element)){
+            if(isSmallestMultiple(currValue, element)){
                    return currValue;
-               }
-            }
+              }
         }
     }
 
     private static boolean isSmallestMultiple(long currValue, int[] element){
         // < short circuit currValue remainder != 0 >
-        for(var index = 0; index < element.length; index++){
-            if(currValue % element[index] != 0)
+        for(var elem : element){
+            if(currValue % elem != 0)
                 return false;
         }
         return true;
