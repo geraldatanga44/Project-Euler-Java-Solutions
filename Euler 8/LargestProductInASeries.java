@@ -51,9 +51,9 @@ public class LargestProductInASeries{
                 // < perform calculation>
                 // < convert char to int >
                 product = product * Character.getNumericValue(subString.charAt(subIndex));
-                // < calculate largest product >
-                maxProduct = Math.max(maxProduct, product);
             }
+            // < calculate largest product >
+            maxProduct = Math.max(maxProduct, product);
         }
         return maxProduct;
     }
